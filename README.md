@@ -28,5 +28,4 @@
 
 ### Software Requirements:
 - **Operating System:** Windows 7.0 or above
-- **Front-end:** HTML, CSS, JavaScript, Bootstrap
-- **Back-end:** PHP, phpMyAdmin
+- **GUI Development:** Intellij Idea studio and Swing programming libraries 
