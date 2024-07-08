@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
  */
 /**
  *
- * @author Vishvas
+ * @author hem naik 
  */
 public class TIC_TAC_TOE extends javax.swing.JFrame {
 
