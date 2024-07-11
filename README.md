@@ -23,7 +23,7 @@
   - Medium Level Task 
   - To be developed using Swing GUI programming
   - Develop the traditional paper-and-pencil game Tic-Tac-Toe with a graphical user interface (GUI) for two players competing against each other.
-  - Swing components must be employed effectively in order to create the playing board, winning condition checking, turn switching, and player symbols.
+  - Swing components must be employed effectively in order to create the playing board, winning condition checking, turn switching, and player symbols. 
   - Concentrate on polishing Swing basics (frames, panels, labels, text fields, action listeners).
      ### BORAD
     ![1](https://github.com/hemnaik/CSEdgeOfficial-CSEdge-Java-Programming-Internship/assets/142394510/11750760-fc4b-4ba8-8fa1-19040593544e)
