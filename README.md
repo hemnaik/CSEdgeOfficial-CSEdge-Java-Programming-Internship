@@ -19,6 +19,22 @@
      ### TABLE OF DATABASE (schema)
     ![Screenshot (195)](https://github.com/hemnaik/CSEdgeOfficial-CSEdge-Java-Programming-Internship/assets/142394510/851d17c4-034c-4e08-8c9b-04199ac991b4)
 
+## 2) TIC TAC TOE Game
+  - Medium Level Task 
+  - To be developed using Swing GUI programming
+  - Develop the traditional paper-and-pencil game Tic-Tac-Toe with a graphical user interface (GUI) for two players competing against each other.
+  - Swing components must be employed effectively in order to create the playing board, winning condition checking, turn switching, and player symbols.
+  - Concentrate on polishing Swing basics (frames, panels, labels, text fields, action listeners).
+     ### BORAD
+    ![1](https://github.com/hemnaik/CSEdgeOfficial-CSEdge-Java-Programming-Internship/assets/142394510/11750760-fc4b-4ba8-8fa1-19040593544e)
+     ### PLAYER 1 WIN
+    ![2](https://github.com/hemnaik/CSEdgeOfficial-CSEdge-Java-Programming-Internship/assets/142394510/9c9faa1a-0975-4c2a-8952-2dc46ffc1556)
+     ### PLAYER 2 WIN
+    ![3](https://github.com/hemnaik/CSEdgeOfficial-CSEdge-Java-Programming-Internship/assets/142394510/dbf04726-772a-44c6-8f86-8dc85e0550a9)
+
+
+
+
 # 🖥️ System Specifications
 
 ### Hardware Requirements:
