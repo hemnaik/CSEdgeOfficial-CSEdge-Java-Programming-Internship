@@ -31,9 +31,8 @@
     ![2](https://github.com/hemnaik/CSEdgeOfficial-CSEdge-Java-Programming-Internship/assets/142394510/9c9faa1a-0975-4c2a-8952-2dc46ffc1556)
      ### PLAYER 2 WIN
     ![3](https://github.com/hemnaik/CSEdgeOfficial-CSEdge-Java-Programming-Internship/assets/142394510/dbf04726-772a-44c6-8f86-8dc85e0550a9)
-
-
-
+     ### SCORE DISPLAYING
+    ![4](https://github.com/hemnaik/CSEdgeOfficial-CSEdge-Java-Programming-Internship/assets/142394510/fd61e7db-d4eb-4cbe-baf5-d46b87830077)
 
 # 🖥️ System Specifications
 
