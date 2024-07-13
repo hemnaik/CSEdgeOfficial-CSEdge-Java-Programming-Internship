@@ -33,7 +33,13 @@
     ![3](https://github.com/hemnaik/CSEdgeOfficial-CSEdge-Java-Programming-Internship/assets/142394510/dbf04726-772a-44c6-8f86-8dc85e0550a9)
      ### SCORE DISPLAYING
     ![4](https://github.com/hemnaik/CSEdgeOfficial-CSEdge-Java-Programming-Internship/assets/142394510/fd61e7db-d4eb-4cbe-baf5-d46b87830077)
-
+    
+## 3) Quiz Application
+  - Medium Level Task 
+  - To be developed using Swing GUI programming
+  - Construct a standalone or web-based assessment tool furnished with multiple-choice questions, grading, and ranking board.
+  - Reinforce AWT/Swing foundations (containers, layouts, components, handlers).
+    
 # 🖥️ System Specifications
 
 ### Hardware Requirements:
