@@ -39,7 +39,7 @@
   - To be developed using Swing GUI programming
   - Construct a standalone or web-based assessment tool furnished with multiple-choice questions, grading, and ranking board.
   - Reinforce AWT/Swing foundations (containers, layouts, components, handlers).
-  ### Login System 
+    ### Login System 
   ![Screenshot (225)](https://github.com/user-attachments/assets/8dce2fcf-029d-475a-94de-140c5e93f7d8)
   ### Login Successful 
   ![Screenshot (226)](https://github.com/user-attachments/assets/9443b2a7-0a39-4443-b6e4-e8a5e1d2b24b)
@@ -47,14 +47,14 @@
   ![Screenshot (263)](https://github.com/user-attachments/assets/50714eaf-ad38-48dd-8086-84140570b1c3)
   ### Registration
   ![Screenshot (245)](https://github.com/user-attachments/assets/3ecaccc8-521e-494a-a17a-94d645db26bd)
-  ### Successful Registration 
+   ### Successful Registration 
   ![Screenshot (249)](https://github.com/user-attachments/assets/8a8a0bb9-3077-4297-8503-c783a935b082)
-  ### DashBoard of User 
+   ### DashBoard of User 
   ![Screenshot (227)](https://github.com/user-attachments/assets/e0ac5282-d2e3-4115-bc30-f6bd7c777f09)
-  ### Newly Registered User 
+   ### Newly Registered User 
   ![Screenshot (251)](https://github.com/user-attachments/assets/85cb0eca-9e3f-40c2-bff9-23dc785d3fef)
   - The User who has just registered will have status Pending in all Quiz.
-  ### User Who has attended Quiz
+   ### User Who has attended Quiz
   ![Screenshot (229)](https://github.com/user-attachments/assets/ef97b87b-47b4-40b9-a57a-c053fd8a31af)
   - The User who has attended the Quiz will have status either Excellent, Improve or Good accoriding to the marks scored.
 
