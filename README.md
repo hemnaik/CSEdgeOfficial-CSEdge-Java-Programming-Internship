@@ -53,7 +53,11 @@
   ![Screenshot (227)](https://github.com/user-attachments/assets/e0ac5282-d2e3-4115-bc30-f6bd7c777f09)
   ### Newly Registered User 
   ![Screenshot (251)](https://github.com/user-attachments/assets/85cb0eca-9e3f-40c2-bff9-23dc785d3fef)
+  - The User who has just registered will have status Pending in all Quiz.
   ### User Who has attended Quiz
+  ![Screenshot (229)](https://github.com/user-attachments/assets/ef97b87b-47b4-40b9-a57a-c053fd8a31af)
+  - The User who has attended the Quiz will have status either Excellent, Improve or Good accoriding to the marks scored.
+
 
     
 # 🖥️ System Specifications
