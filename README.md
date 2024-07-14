@@ -66,8 +66,22 @@
    ### Quiz Score presentation 
    ![Screenshot (235)](https://github.com/user-attachments/assets/0ac4c7b9-4575-4c26-a104-25be8ea7b88e)
    ### Without Selection clicking of Next Button
-   ![Screenshot (233)](https://github.com/user-attachments/assets/1880affa-ea61-45e5-af87-1fcfee493ad0)
-   
+   ![Screenshot (233)](https://github.com/user-attachments/assets/fa01d892-7d1c-4f4a-8b06-8963b8becee8)
+   ### Status Displaying of Quiz 
+   ![Screenshot (234)](https://github.com/user-attachments/assets/44fd8d75-a6bf-47bc-be16-07dbe1db0f36)
+   - If not attended then PENDING.
+   - If score is between 10 to 12 Then EXCELLENT.
+   - If score is between 5 to 9 Then GOOD.
+   - If Score is between 1 to 4 Then IMPROVE.
+   ### For Already Users
+   ![Screenshot (252)](https://github.com/user-attachments/assets/d4f57e70-013e-4813-9382-94a8f9260ff5)
+   - If the registered users try to register again then such prompt will be displayed.
+   ### Presentation Wrong Answer
+   ![Screenshot (257)](https://github.com/user-attachments/assets/bd69a0b6-2fb9-49d9-b0bd-5ce9f8caca8f)
+   ### Presentation of Right Answer
+   ![Screenshot (258)](https://github.com/user-attachments/assets/b83d8bea-7f2d-4f1b-9b77-e322535c0938)
+
+
 
 
     
