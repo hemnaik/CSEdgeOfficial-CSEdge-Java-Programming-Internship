@@ -1,4 +1,4 @@
-# CSEdgeOfficial-CSEdge-Java-Programming-Internship   
+# CSEdgeOfficial-CSEdge-Java-Programming-Internship    
 ## 1) ATM Interface 
   - Medium Level Task 
   - To be developed using Swing GUI programming
