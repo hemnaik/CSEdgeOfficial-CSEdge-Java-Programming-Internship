@@ -47,6 +47,10 @@
   ![Screenshot (263)](https://github.com/user-attachments/assets/50714eaf-ad38-48dd-8086-84140570b1c3)
   ### Registration
   ![Screenshot (245)](https://github.com/user-attachments/assets/3ecaccc8-521e-494a-a17a-94d645db26bd)
+  ### Password Matching in Registration
+  ![Screenshot (248)](https://github.com/user-attachments/assets/bc7969c2-4981-4e9d-9528-83e0b4f69fb3)
+  ### Password Match Not Found
+  ![Screenshot (264)](https://github.com/user-attachments/assets/9cb86535-9345-48e0-834b-e8ebee44807e)
    ### Successful Registration 
   ![Screenshot (249)](https://github.com/user-attachments/assets/8a8a0bb9-3077-4297-8503-c783a935b082)
    ### DashBoard of User 
@@ -57,6 +61,13 @@
    ### User Who has attended Quiz
   ![Screenshot (229)](https://github.com/user-attachments/assets/ef97b87b-47b4-40b9-a57a-c053fd8a31af)
   - The User who has attended the Quiz will have status either Excellent, Improve or Good accoriding to the marks scored.
+   ### Quiz Demonstration
+   ![Screenshot (232)](https://github.com/user-attachments/assets/26dccb1d-c5c5-4161-8c41-713334d36668)
+   ### Quiz Score presentation 
+   ![Screenshot (235)](https://github.com/user-attachments/assets/0ac4c7b9-4575-4c26-a104-25be8ea7b88e)
+   ### Without Selection clicking of Next Button
+   ![Screenshot (233)](https://github.com/user-attachments/assets/1880affa-ea61-45e5-af87-1fcfee493ad0)
+   
 
 
     
