@@ -82,9 +82,9 @@
    ### For Already Existing Users
    ![Screenshot (252)](https://github.com/user-attachments/assets/d4f57e70-013e-4813-9382-94a8f9260ff5)
    - If the registered users try to register again then such prompt will be displayed.
-  ### Presentation Wrong Answer
+  ### Selection of Wrong Answer
    ![Screenshot (257)](https://github.com/user-attachments/assets/bd69a0b6-2fb9-49d9-b0bd-5ce9f8caca8f)
-   ### Presentation of Right Answer
+   ### Selection of Right Answer
    ![Screenshot (258)](https://github.com/user-attachments/assets/b83d8bea-7f2d-4f1b-9b77-e322535c0938)
 
      
