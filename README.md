@@ -39,17 +39,17 @@
   - To be developed using Swing GUI programming
   - Construct a standalone or web-based assessment tool furnished with multiple-choice questions, grading, and ranking board.
   - Reinforce AWT/Swing foundations (containers, layouts, components, handlers).
-    ### Login System 
+     ### Login System 
   ![Screenshot (225)](https://github.com/user-attachments/assets/8dce2fcf-029d-475a-94de-140c5e93f7d8)
-  ### Login Successful 
+   ### Login Successful 
   ![Screenshot (226)](https://github.com/user-attachments/assets/9443b2a7-0a39-4443-b6e4-e8a5e1d2b24b)
   ### User Verification 
   ![Screenshot (263)](https://github.com/user-attachments/assets/50714eaf-ad38-48dd-8086-84140570b1c3)
   ### Registration
   ![Screenshot (245)](https://github.com/user-attachments/assets/3ecaccc8-521e-494a-a17a-94d645db26bd)
-  ### Password Matching in Registration
+   ### Password Matching in Registration
   ![Screenshot (248)](https://github.com/user-attachments/assets/bc7969c2-4981-4e9d-9528-83e0b4f69fb3)
-  ### Password Match Not Found
+   ### Password Match Not Found
   ![Screenshot (264)](https://github.com/user-attachments/assets/9cb86535-9345-48e0-834b-e8ebee44807e)
    ### Successful Registration 
   ![Screenshot (249)](https://github.com/user-attachments/assets/8a8a0bb9-3077-4297-8503-c783a935b082)
@@ -58,14 +58,14 @@
    ### Newly Registered User 
   ![Screenshot (251)](https://github.com/user-attachments/assets/85cb0eca-9e3f-40c2-bff9-23dc785d3fef)
   - The User who has just registered will have status Pending in all Quiz.
-   ### User Who has attended Quiz
+    ### User Who has attended Quiz
   ![Screenshot (229)](https://github.com/user-attachments/assets/ef97b87b-47b4-40b9-a57a-c053fd8a31af)
   - The User who has attended the Quiz will have status either Excellent, Improve or Good accoriding to the marks scored.
-   ### Quiz Demonstration
+    ### Quiz Demonstration
    ![Screenshot (232)](https://github.com/user-attachments/assets/26dccb1d-c5c5-4161-8c41-713334d36668)
-   ### Quiz Score presentation 
+  ### Quiz Score presentation 
    ![Screenshot (235)](https://github.com/user-attachments/assets/0ac4c7b9-4575-4c26-a104-25be8ea7b88e)
-   ### Without Selection clicking of Next Button
+  ### Without Selection clicking of Next Button
    ![Screenshot (233)](https://github.com/user-attachments/assets/fa01d892-7d1c-4f4a-8b06-8963b8becee8)
    ### Status Displaying of Quiz 
    ![Screenshot (234)](https://github.com/user-attachments/assets/44fd8d75-a6bf-47bc-be16-07dbe1db0f36)
@@ -76,15 +76,12 @@
    ### For Already Existing Users
    ![Screenshot (252)](https://github.com/user-attachments/assets/d4f57e70-013e-4813-9382-94a8f9260ff5)
    - If the registered users try to register again then such prompt will be displayed.
-   ### Presentation Wrong Answer
+  ### Presentation Wrong Answer
    ![Screenshot (257)](https://github.com/user-attachments/assets/bd69a0b6-2fb9-49d9-b0bd-5ce9f8caca8f)
    ### Presentation of Right Answer
    ![Screenshot (258)](https://github.com/user-attachments/assets/b83d8bea-7f2d-4f1b-9b77-e322535c0938)
 
-
-
-
-    
+     
 # 🖥️ System Specifications
 
 ### Hardware Requirements:
