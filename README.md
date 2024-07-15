@@ -73,7 +73,7 @@
    - If score is between 10 to 12 Then EXCELLENT.
    - If score is between 5 to 9 Then GOOD.
    - If Score is between 1 to 4 Then IMPROVE.
-   ### For Already Users
+   ### For Already Existing Users
    ![Screenshot (252)](https://github.com/user-attachments/assets/d4f57e70-013e-4813-9382-94a8f9260ff5)
    - If the registered users try to register again then such prompt will be displayed.
    ### Presentation Wrong Answer
